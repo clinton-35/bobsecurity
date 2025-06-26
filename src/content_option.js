@@ -1,18 +1,18 @@
-const logotext = "JOHN";
+const logotext = "Bob Security";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "Bob Security",
+    description: "From personal bodyguards to business, home, and cyber protection _ More than security — peace of mind",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "We are Bob Security",
     animated: {
-        first: "I love coding",
-        second: "I code cool websites",
-        third: "I develop mobile apps",
+        first: "Your safety, Our duty",
+        second: "Always alert. Always ready",
+        third: "Professional. Reliable. Trusted.",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    description: "Your safety is our mission. Whether you need a personal bodyguard, secure your business, protect your home, or defend your digital space, we’re here with professional, reliable, and affordable solutions.",
+    your_img_url: "https://unsplash.com/photos/man-in-green-and-blue-jacket-walking-on-street-during-daytime-XDBRGiRYE-I",
 };
 
 const dataabout = {
