@@ -111,9 +111,9 @@ const contactConfig = {
     description: "Need expert protection or have questions about our security services? Reach out to us for quick support, service inquiries, or to schedule a free security consultation. We’re here to keep you safe — anytime, anywhere.",
     // create an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-    YOUR_SERVICE_ID: "service_id",
-    YOUR_TEMPLATE_ID: "template_id",
-    YOUR_USER_ID: "user_id",
+    YOUR_SERVICE_ID: "service_o1vpje7",
+    YOUR_TEMPLATE_ID: "template_zzfnqlk",
+    PUBLIC_KEY: "0hYq6vzGJB2wFzGYl",
 };
 
 
