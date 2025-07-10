@@ -50,57 +50,57 @@ const dataportfolio = [
     {
         img: "/images/cctv.jpg", // CCTV Surveillance
         description: "Smart CCTV systems with real-time video alerts.",
-        link: "#",
+        link: "/cctv",
     },
     {
         img: "/images/homesec.avif", // Residential Security
         description: "24/7 guards for homes and gated communities.",
-        link: "#",
+        link: "/home&officesecurity",
     },
     {
         img: "/images/construction.jpg", // Construction Site Security
         description: "Guarding equipment, fuel, and materials on site.",
-        link: "#",
+        link: "/constructionsec",
     },
     {
         img: "/images/cybersec.jpg", // Cybersecurity
         description: "Protect your data from hacks and cyber threats.",
-        link: "#",
+        link: "/cybersecurity",
     },
     {
         img: "/images/eventsec.jpg", // Event Security
         description: "Trained teams for safe, well-managed events.",
-        link: "#",
+        link: "/events",
     },
     {
         img: "/images/patrol.jpg", // Mobile Patrol
         description: "Marked patrol units to deter threats and respond fast.",
-        link: "#",
+        link: "/patrol",
     },
     {
         img: "/images/vip.avif", // VIP Protection
         description: "Close protection for executives and dignitaries.",
-        link: "#",
+        link: "/vip",
     },
     {
         img: "/images/responce.jpg", // Alarm Response
         description: "Rapid response teams for triggered alarms.",
-        link: "#",
+        link: "/response",
     },
     {
         img: "/images/k9.jpg", // K-9 Security
         description: "Trained dogs for detection and patrol support.",
-        link: "#",
+        link: "/Kservices",
     },
     {
         img: "/images/expertcon.jpg", // Security Consultancy
         description: "Expert advice to improve your security setup.",
-        link: "#",
+        link: "/consultancy",
     },
     {
         img: "/images/pi.jpg", // Private Investigation
         description: "Surveillance, background checks, and fraud cases.",
-        link: "#",
+        link: "/pi",
     }
 ];
 

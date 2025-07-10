@@ -1,0 +1,108 @@
+/* Layout spacing */
+.sec_sp {
+  margin-bottom: calc(3rem + 5.128vw);
+}
+
+/* Section titles and borders */
+.t_border {
+  border-color: var(--text-color) !important;
+}
+
+.display-4 {
+  font-size: 2.5rem;
+  font-weight: 700;
+}
+
+.color_sec {
+  color: var(--text-color);
+  font-weight: bold;
+}
+
+/* Image aesthetics */
+img.img-fluid {
+  width: 1000px;
+  height: 450px;
+  border-radius: 8px;
+  box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.1);
+}
+
+/* Typography */
+p {
+  
+  font-size: 1.1rem;
+  line-height: 1.7;
+  color: var(--text-color);
+}
+
+h3 {
+  font-size: 1.75rem;
+}
+
+.About-header {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+/* Service section titles */
+.service__title {
+  padding: 8px 0;
+  font-size: 1.25rem;
+  border-bottom: solid 2px var(--secondary-color);
+  margin-bottom: 10px;
+}
+
+.service_desc {
+  font-size: 1rem;
+  line-height: 1.6;
+  color: var(--text-color);
+}
+
+ul.service_desc {
+  list-style-type: disc;
+  padding-left: 1.2rem;
+}
+
+/* Animations (optional) */
+@-webkit-keyframes fadeInUp {
+  0% {
+    opacity: 0;
+    -webkit-transform: translate3d(0, 100%, 0);
+    transform: translate3d(0, 100%, 0);
+  }
+  to {
+    opacity: 1;
+    -webkit-transform: translateZ(0);
+    transform: translateZ(0);
+  }
+}
+
+@keyframes fadeInUp {
+  0% {
+    opacity: 0;
+    -webkit-transform: translate3d(0, 100%, 0);
+    transform: translate3d(0, 100%, 0);
+  }
+  to {
+    opacity: 1;
+    -webkit-transform: translateZ(0);
+    transform: translateZ(0);
+  }
+}
+
+/* Light fade effect for sections (optional use) */
+.fadeInUp {
+  animation-name: fadeInUp;
+  animation-duration: 1s;
+  animation-fill-mode: both;
+}
+
+/* Responsive tweaks (optional) */
+@media (max-width: 768px) {
+  .display-4 {
+    font-size: 2rem;
+  }
+
+  h3 {
+    font-size: 1.5rem;
+  }
+}
