@@ -39,7 +39,7 @@ export const CCTV = () => {
         <Row className="sec_sp">
           <Col lg="5">
             <img
-              src="/images/cctv.jpg"
+              src="/images/cctv2.png"
               alt="CCTV Surveillance"
               className="img-fluid rounded shadow"
               style={{ width: "100%", height: "auto", objectFit: "cover" }}
